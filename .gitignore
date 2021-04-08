@@ -1,0 +1,22 @@
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Environments
+# .env
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
